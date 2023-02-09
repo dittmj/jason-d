@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 production v1.0 > bug-fix v1.5 > production v2.0 > jason v2.5
+=======
+production v1.0 > bug-fix v1.5 > production v2.0 > dittmeier v2.6
+>>>>>>> Stashed changes
